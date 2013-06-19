@@ -8,6 +8,7 @@ To run this project you should have following things installed
   2)Java installed into operating systems.
    
 The output is shown in following categories
+	
 	1)Browser Stats      : It gives details about distribution of Browsers like Firefox, Internet Explorer. 
 	
 	2)Bot Stat           : It gives details about distribution of Search Engine Spiders like GoogleBot,Yahoo Slurp, MSNBot	
