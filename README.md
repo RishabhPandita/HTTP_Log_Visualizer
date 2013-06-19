@@ -21,5 +21,5 @@ The output is shown in following categories
 	
 	6)Log Viewer Modules : It shows logs of User Activity, Accessed URLs and User Agent Log.
   
-  for any queries feel free to contact : rishabh.pandita@gmail.com :)
+  
 
